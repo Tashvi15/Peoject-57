@@ -1,0 +1,22 @@
+img{
+  height: 300px;
+  width:450px;
+}
+body
+{
+    text-align: center;
+    background: linear-gradient( #fcec03 0%,#036ffc 100%);	
+}
+h1{  
+  font-size:20px;
+}
+
+p{
+  font-size:18px;
+  color: #0328fc;    
+}
+#hobby{
+    padding:20px;
+    font-size:18;
+    text-align:center;
+}
